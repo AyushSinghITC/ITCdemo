@@ -1,4 +1,4 @@
 # ITCdemo
 First git repository
 <br>
--Ayush Singh
+Author-Ayush Singh
